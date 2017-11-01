@@ -7,7 +7,7 @@ Code for performing automatic periodization of historical text corpora.
 
 ## Instructions
 Run:
-```python
+```
 python periodize.py TEXT_DIR FILE_LIST [--workers workers] [--processes processes] [--ext ext]
 ```
 where:
